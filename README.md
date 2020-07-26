@@ -1,6 +1,6 @@
 # Credit-Card-Anomaly-Detection
 
-Before we begin with our analysis, let's understand a bit more about the dataset that is provided to us. The dataset that we have can be downloaded from the Kaggle link at . The given dataset contains information about transactions that were made using credit cards in the month of September, 2013. The transaction data is captured over a duration of 2 days. We have 492 cases of fraudulent transactions out of a total number of 284807 number of transactions recorded during those two days.
+Before we begin with our analysis, let's understand a bit more about the dataset that is provided to us. The dataset that we have can be downloaded link at https://drive.google.com/file/d/1ISpmXkavPTRqE1Jq716P4nGO5hiSI_bB/view?usp=sharing. The given dataset contains information about transactions that were made using credit cards in the month of September, 2013. The transaction data is captured over a duration of 2 days. We have 492 cases of fraudulent transactions out of a total number of 284807 number of transactions recorded during those two days.
 
 The dataset as such is severely imbalanced with the percentage of fraud transactions being 0.172% of the total data. The dataset contains only transformed numerical features which are a result of a PCA transormation. The original data is not provided to us due to security reasons and to protect the identity of the customers.
 
